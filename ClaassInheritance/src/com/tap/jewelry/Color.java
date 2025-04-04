@@ -1,4 +1,5 @@
 package com.tap.jewelry;
+
 import com.tap.inherit.Earbuds;
 
 public class Color {
