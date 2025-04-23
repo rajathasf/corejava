@@ -1,5 +1,4 @@
 package com.tap.jewelry;
-
 import com.tap.inherit.Weather;
 
 public class City {
